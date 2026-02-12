@@ -42,7 +42,7 @@ I'm a passionate **Full Stack Developer** and **Backend Specialist** currently p
 |-------------------|-------------|---------------|
 | **Smart India Hackathon Winner** | 2024 | Led Digital Dockets project for government digitization |
 | **Cummins Scholarship Winner** | 2024-2025 | Academic excellence recognition |
-| **Top 1% CGPA** | Ongoing | Consistent 9.41/10 performance |
+| **Top 1% CGPA** | Ongoing | Consistent 9.44/10 performance |
 
 </div>
 
